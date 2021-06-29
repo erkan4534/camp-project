@@ -3,7 +3,7 @@ import Categories from "./Categories";
 import ProductList from "../pages/ProductList";
 import {Grid} from 'semantic-ui-react'
 import {Route} from "react-router-dom";
-import ProductDetail from "../pages/productDetail";
+import ProductDetail from "../pages/ProductDetail";
 import CartDetail from "../pages/CartDetail";
 import {ToastContainer} from "react-toastify";
 import ProductAdd from "../pages/ProductAdd";
