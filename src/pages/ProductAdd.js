@@ -4,7 +4,7 @@ import * as Yup from "yup";
 import { FormField, Button ,Label} from "semantic-ui-react";
 import KodlamaloTextInput from "../utilities/customFormControls/KodlamaloTextInput";
 
-export default function ProductAdd() {
+    export default function ProductAdd() {
     const initialValues = { productName: "", unitPrice: 10 };
 
     const schema = Yup.object({
